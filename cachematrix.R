@@ -1,7 +1,7 @@
 ## This program consists out of two functions which use lexical scoping to
 ## inverse a matrix using the R-function solve(). Because such operation can be
 ## memory consuming, the matrix is first stored in cache. The program then
-## evaluates whether a result is already available in cache before calculating
+## evaluates whether a result is already available in cache before calculating.
 
 ## The first function, makeCacheMatrix creates a special matrix, 
 ## which is really a list containing a function to:
